@@ -11,7 +11,7 @@ A responsive portfolio website template built with HTML, CSS, and Bootstrap. Thi
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>BootstrapL</li>
+  <li>Bootstrap</li>
   <li>Font Awesome</li>
 </ul>
 
